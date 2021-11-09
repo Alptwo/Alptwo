@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alptwo
 - 👀 I’m interested in Web Development and Mobile App Development
-- 🌱 I’m currently learning C# .NET CORE
+- 🌱 I’m currently learning C#, .NET CORE and Swift
 - 📫 You can reach me on alptugaltin@gmail.com
 
 <!---
