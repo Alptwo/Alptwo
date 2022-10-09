@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alptwo
-- 👀 I’m interested in Web Development and Mobile App Development
+- 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning C#, Python and Java
 - 📫 You can reach me on alptugaltin@gmail.com
 
