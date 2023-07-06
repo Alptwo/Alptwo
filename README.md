@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alptwo
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m interested in Python, Java and Rust
+- 🌱 I’m interested in Python and Java
 - 📫 You can reach me on alptugaltin@gmail.com
 
 <!---
