@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Alptwo
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m interested in Python and Java
-- 📫 You can reach me on alptugaltin@gmail.com
+👋 Hi, I’m @Alptwo
 
 <!---
 Alptwo/Alptwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
